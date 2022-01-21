@@ -1,0 +1,30 @@
+Indroduction to Verilog Desgin
+Verilog Module
+Lexical Conventions in Verilog
+Verilog Data Types and Logic System
+Structural Modeling
+  Lab1: Full Adder Module Design
+  Introduction to Cadence Simulators
+  
+Constants Specified Options
+Verilog Expressions and Operators
+Dataflow Modeling
+  Lab2: 2-1 MUX
+
+Behavioral Modeling
+  Lab3: ALU
+Modeling Delay
+  Lab4: Modeling Delay
+Support for Verification
+Verilog Test Bench
+A Complete Design Example
+  Lab5-1: Testbench of 2-1 MUX
+  Lab5-2: Testbench of ALU
+
+High Level Constructs in Verilog
+Modeling Memories
+  Lab6: Memory
+Finite State Machine Design
+  Lab7: FSM Serial Input Bit-stream Pattern Detector Module
+Verilog Modeling Style for Synthesis
+  Lab8: Sequence Controller
